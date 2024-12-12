@@ -7,3 +7,7 @@
 ``` javascript
 let myVar = "Hello, world!";
 ```
+
+- [x] Finish 
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
